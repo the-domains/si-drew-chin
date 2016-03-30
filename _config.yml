@@ -1,0 +1,28 @@
+name: Si Drew-Chin
+favicon: null
+layout_spectrum: 0.7380282592494041
+typography_spectrum: 0.796225638827309
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.02930814167484641
+  lightness: 0.44171378016471863
+  saturation: 0.06507290177978575
+  rhythmicContrast: 0.21601115562953055
+purpose: []
